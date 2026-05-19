@@ -1,2 +1,2 @@
-# Figma-2 Travel .fig file google drive link
+# Travel .fig file google drive link
 https://drive.google.com/file/d/1fEuw5buiEx1SQG5jLN-fAfO2IR13DXnY/view?usp=sharing
